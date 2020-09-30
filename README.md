@@ -1,2 +1,2 @@
 # square-matrix-calculator
-Sparse calculator for nxn matrices
+Matrix.java is a calculator that can perform operations on square matrices, optimizing runtime by taking into account the sparseness of the matrix. An nxn matrix is considered to be sparse if the number of non-zero entries is small compared to its total size. More information can be found in square-matrix.pdf.
